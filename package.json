@@ -25,7 +25,8 @@
     "lint": "eslint .",
     "ci": "npm run lint && egg-bin pkgfiles --check && npm run cov",
     "autod": "autod",
-    "pkgfiles": "egg-bin pkgfiles"
+    "pkgfiles": "egg-bin pkgfiles",
+    "publish": "npm publish"
   },
   "ci": {
     "version": "8, 9"

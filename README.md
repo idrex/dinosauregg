@@ -1,5 +1,6 @@
 # dinosauregg
 
+<span style="font-size: 120px">🦕</span>🥚
 Common scaffolding based on egg.js construction
 
 ## QuickStart
